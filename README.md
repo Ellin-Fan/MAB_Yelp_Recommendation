@@ -1,1 +1,1 @@
-# TS_for_MAB
+# Thompson Sampling for Multi-Armed Bandit
